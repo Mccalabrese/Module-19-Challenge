@@ -1,6 +1,4 @@
-# Module-19-Challenge
 
-In this challenge I:
 -Imported Ethereum transaction functions into the KryptoJobs2Go application.
 
 -Signed and ran a payment transaction.
