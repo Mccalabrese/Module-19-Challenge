@@ -1,8 +1,6 @@
 # Cryptocurrency Wallet
 
 ################################################################################
-# For this Challenge, you will assume the perspective of a KryptoJobs2Go
-# customer in order to do the following:
 
 # * Generate a new Ethereum account instance by using your mnemonic seed phrase
 # (which you created earlier in the module).
@@ -36,7 +34,7 @@ w3 = Web3(Web3.HTTPProvider("HTTP://127.0.0.1:7545"))
 # Step 1:
 # Import Ethereum Transaction Functions into the KryptoJobs2Go Application
 
-# In this section, you'll import several functions from the `crypto_wallet.py`
+# import several functions from the `crypto_wallet.py`
 # script into the file `krypto_jobs.py`, which contains code for Fintech
 # Finder’s customer interface, in order to add wallet operations to the
 # application. For this section, you will assume the perspective of a Fintech
